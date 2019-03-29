@@ -1,6 +1,7 @@
 # PlayVideoOnAndroidWeb
 Play video on android web
 
+jsmpeg通过canvas播放视频,解决了video标签在安卓浏览器上层级最高的问题,同时实现了视频的自动播放。
 
 网页示例:https://crazyming9528.github.io/PlayVideoOnAndroidWeb/
 
